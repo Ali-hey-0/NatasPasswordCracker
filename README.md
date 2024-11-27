@@ -1,8 +1,7 @@
-# natas_2024
+HERE IS THE SOME OF THE LASTEST NATAS LEVELS PASSWORDS AND SOLUTION
 
 
-
-
+<!--LEVEL 14 -> 15
 <!-- import requests -->
 
 <!-- chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890" -->
@@ -26,7 +25,7 @@ while len(password) <= 32:
 
 
 
-<!-- secend one  -->
+<!-- NATAS16->17  -->
 
 <!-- import requests
 
@@ -56,7 +55,7 @@ print(f"Password for natas17: {password}")
 
 <!-- next one -->
 
-<!-- # natas 18
+<!-- # natas 17-> 18
 
 # import requests
 
@@ -86,7 +85,7 @@ print(f"Password for natas17: {password}")
 # print(f"Finished! Password is {password}") -->
 
 
-<!-- natas19 -->
+<!-- natas 18 -> 19 -->
 
 <!-- import requests
 
@@ -107,7 +106,7 @@ for i in range(1,640):
 
 
 
-<!-- natas 20 -->
+<!-- natas 19 -> 20 -->
 
 <!-- 
 import requests
@@ -140,7 +139,7 @@ for i in range(1, 640):
 
 
 
-<!-- natas 22
+<!-- natas 21->22
 
 
 
@@ -171,7 +170,7 @@ print(response.text)
 
 
 
-<!-- natas28 -->
+<!-- natas 27 -> 28 -->
 
 <!-- 
 
@@ -221,7 +220,7 @@ print(resp.text)
 
  -->
 
-<!-- natas30  -->
+<!-- natas 29 -> 30  -->
 
 
 <!-- 
