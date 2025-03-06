@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Ali-hey-0000**
-- GitHub: [@Ali-hey-0000](https://github.com/Ali-hey-0000)
+- GitHub: [@Ali-hey-0000](https://github.com/Ali-hey-0)
 
 ## 📅 Last Updated
 
